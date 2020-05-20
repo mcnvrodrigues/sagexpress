@@ -1,1 +1,1 @@
-{"build-release-ready":false,"build-debug-ready":false,"devops":false,"deploy-image":"","chart-path":"","ibm-cluster":"","motd-access":"Sun, 19 Apr 2020 00:08:17 -03","app-id":"","deploy-target":""}
+{"build-release-ready":true,"build-debug-ready":false,"devops":false,"deploy-image":"","chart-path":"","ibm-cluster":"","motd-access":"Tue, 19 May 2020 22:56:16 -03","app-id":"9c2c9dff-1a22-4816-88c6-a04ace7aa569","deploy-target":"buildpack"}
